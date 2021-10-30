@@ -1,8 +1,8 @@
 # Swagger API:
 
-https://habr.com/ru/company/microsoft/blog/325872/
+- https://habr.com/ru/company/microsoft/blog/325872/
+- https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/
 
-2. 
 ```
 <PropertyGroup>
   <GenerateDocumentationFile>true</GenerateDocumentationFile>
